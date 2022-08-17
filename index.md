@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bienvenue sur mon exemple de site Github pages
 
 You can use the [editor on GitHub](https://github.com/morgancorroyer/static/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
